@@ -174,6 +174,7 @@ class _MyHomePageState extends State<MyHomePage> {
               child: const Icon(Icons.add),
               onPressed: () => _startAddNewTransaction(context),
               //test
+              //its a new line
             ),
     );
   }
